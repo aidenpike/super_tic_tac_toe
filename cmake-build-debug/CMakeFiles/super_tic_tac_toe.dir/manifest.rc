@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/aiden/CLionProjects/super-tic-tac-toe/cmake-build-debug/CMakeFiles/super_tic_tac_toe.dir/embed.manifest"
